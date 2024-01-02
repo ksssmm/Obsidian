@@ -1,0 +1,160 @@
+{
+  "main": {
+    "id": "d6ebf1cdc54060a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d8dd4143ae05bb7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80c688f832323410",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/무제 파일.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6c2d25fc4ee52636",
+    "type": "split",
+    "children": [
+      {
+        "id": "b8b9c4e32fd7b074",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b40bfcc14687e8e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8437345e65bb8ac5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9c766034d6b7dad1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "27f54fc090b825f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "d42c037612f7a02c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3074d38937add35e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Java/무제 파일.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "84c246e0ff59c718",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Java/무제 파일.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a9db88489523b814",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "32ea9fccf3dad296",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Java/무제 파일.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "audio-recorder:녹음 시작/중지": false,
+      "markdown-importer:마크다운 형식 가져오기 열기": false
+    }
+  },
+  "active": "80c688f832323410",
+  "lastOpenFiles": [
+    "무제 파일.canvas",
+    "Java/무제 파일.md",
+    "Spring",
+    "attached file",
+    "Welcome.md",
+    "Java"
+  ]
+}
